@@ -4,4 +4,4 @@ Regular updates for this can be found on the linked page: [Som Phene Log Tag Cat
 
 This repository contains my work for the above course and is not verified to be free from errors. Please send comments, point out errors, and suggestions via email to somphene1 at gmail dot com. Any mistakes are attributed to my own hastiness and not the Professor who has most probably not seen any of this work. 
 
-This course offering is being recorded by [CDEEP](http://www.cdeep.iitb.ac.in/) so the lecture videos will be uploaded on their site soon. 
+This course offering is being recorded by [CDEEP](http://www.cdeep.iitb.ac.in/) so the lecture videos are uploaded on their [site](http://www.cdeep.iitb.ac.in/vod/vodCloud/course_intra.php?ccode=320) (LDAP sign in needed). It will also be uploaded to [NPTEL](https://nptel.ac.in/) with the course name Optimization from fundamentals.
